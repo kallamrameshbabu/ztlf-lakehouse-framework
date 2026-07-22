@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and this repository."
+title: "Zero-Trust Lakehouse Framework (ZTLF)"
+type: software
+authors:
+  - family-names: "Kallam"
+    given-names: "Ramesh Babu"
+    orcid: "https://orcid.org/0009-0008-5220-1775"
+repository-code: "https://github.com/REPLACE-WITH-USERNAME/ztlf-lakehouse-framework"
+abstract: >-
+  A reference implementation and documentation package for a zero-trust
+  lakehouse architecture integrating identity, governance, deterministic
+  data-quality validation, quarantine handling, and AI-ready analytics.
+keywords:
+  - zero trust
+  - lakehouse
+  - Azure Databricks
+  - Apache Spark
+  - Delta Lake
+  - Unity Catalog
+  - data governance
+  - data quality
+  - AI-ready analytics
+license: "NOASSERTION"
+version: "0.1.0"
+date-released: "2026-07-22"
+preferred-citation:
+  type: article
+  title: >-
+    A Zero-Trust Lakehouse Framework for Secure Data Governance,
+    Intelligent Data Quality, and AI-Ready Analytics: Design,
+    Implementation, and Experimental Evaluation
+  authors:
+    - family-names: "Kallam"
+      given-names: "Ramesh Babu"
+      orcid: "https://orcid.org/0009-0008-5220-1775"
+  journal: "Journal of Systems and Software"
+  status: "manuscript prepared for submission"

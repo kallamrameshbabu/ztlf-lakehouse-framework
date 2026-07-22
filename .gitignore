@@ -1,0 +1,44 @@
+# Databricks and Python
+.databricks/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.secret
+secrets/
+config.local.*
+local.settings.json
+
+# Cloud and infrastructure state
+.terraform/
+*.tfstate
+*.tfstate.*
+.azure/
+
+# Data and generated artifacts
+data/
+*.parquet
+*.delta
+*.avro
+*.orc
+*.csv
+*.xlsx
+*.db
+*.sqlite
+spark-warehouse/
+metastore_db/
+checkpoints/
+outputs/
+
+# Office temporary files
+~$*
+.DS_Store
+Thumbs.db
