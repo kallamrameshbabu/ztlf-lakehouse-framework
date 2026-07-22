@@ -6,7 +6,7 @@ authors:
   - family-names: "Kallam"
     given-names: "Ramesh Babu"
     orcid: "https://orcid.org/0009-0008-5220-1775"
-repository-code: "https://github.com/REPLACE-WITH-USERNAME/ztlf-lakehouse-framework"
+repository-code: "https://github.com/kallamrameshbabu/ztlf-lakehouse-framework"
 abstract: >-
   A reference implementation and documentation package for a zero-trust
   lakehouse architecture integrating identity, governance, deterministic
