@@ -27,14 +27,14 @@ validated Silver and Gold records.
 
 ## Repository status
 
-This repository is a publication-ready project scaffold. The research
-manuscript and experimental evidence describe a completed Azure
-Databricks implementation. Executable notebooks and environment-specific
-configuration will be added only after confidential values, workspace
-identifiers, and licensing constraints have been removed.
+This repository contains the sanitized Databricks notebooks and supporting
+reproducibility documentation for the implemented ZTLF experimental workflow.
 
-No credentials, tenant identifiers, storage keys, access tokens, employer
-code, or proprietary assets should be committed.
+Environment-specific credentials, workspace identifiers, private storage
+details, and the original source dataset are intentionally excluded.
+
+The notebooks require users to configure their own Azure Databricks,
+Unity Catalog, and ADLS Gen2 environment before execution.
 
 ## Architecture
 
