@@ -65,6 +65,10 @@ See [`docs/architecture.md`](docs/architecture.md).
 Gold validation reported zero duplicate customer IDs and zero null
 engineered features.
 
+### Data-quality result
+
+![Data Quality Issues Before and After ZTLF Processing](figures/ZTLF_Before_After_Data_Quality.png)
+
 ## Repository map
 
 ```text
