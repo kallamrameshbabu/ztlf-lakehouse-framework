@@ -102,7 +102,7 @@ is therefore deferred until the authoritative source and license are
 verified. The repository will use a synthetic or clearly licensed sample
 for public reproducibility.
 
-See [`docs/data-provenance.md`](docs/data-provenance.md).
+See [`docs/dataset-provenance.md`](docs/dataset-provenance.md).
 
 ## Citation
 
