@@ -1,0 +1,11 @@
+{
+  "catalog": "<catalog-name>",
+  "schema": "<schema-name>",
+  "bronze_table": "customer_churn_bronze",
+  "silver_table": "customer_churn_silver",
+  "gold_table": "customer_churn_gold",
+  "quarantine_table": "customer_churn_quarantine",
+  "source_csv_path": "abfss://<container>@<storage-account>.dfs.core.windows.net/Churn_Modelling.csv",
+  "experiment_id": "ztlf-public-reproduction",
+  "random_seed": 42
+}
