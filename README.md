@@ -111,6 +111,11 @@ Journal metadata should be updated after publication.
 
 ## License
 
-A software license has not yet been selected because the executable code
-release is pending. Do not add a license until the author confirms the
-intended permissions for code, figures, and documentation.
+This project is licensed under the Apache License 2.0. See the
+[LICENSE](LICENSE) file for details.
+
+The repository license applies only to the original source code,
+documentation, and figures contributed by the author. It does not apply
+to third-party datasets, Azure services, Apache Spark, Delta Lake, Unity
+Catalog, or other third-party software and services, each of which
+remains subject to its own license or terms of use.
